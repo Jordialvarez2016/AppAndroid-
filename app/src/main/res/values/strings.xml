@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coffe Break</string>
+    <string name="txt_pregunta">¿Cuantas tazas de caffe desea?</string>
+    <string name="txt_hint">Numero de Tazas</string>
+</resources>
